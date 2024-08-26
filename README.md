@@ -1,1 +1,1 @@
-Rogue likes JAVASCRIPT!
+Rogue like text game
