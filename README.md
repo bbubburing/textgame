@@ -1,1 +1,1 @@
-README
+Rogue likes JAVASCRIPT!
