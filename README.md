@@ -1,4 +1,4 @@
-                                                          Rogue like text game
+      Rogue like text game
 
 ● 플레이 중 죽으면 세이브 없이 다시 시작해야합니다.
 
